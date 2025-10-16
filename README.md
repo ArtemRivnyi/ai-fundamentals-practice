@@ -1,7 +1,3 @@
-# AI Labs
-
-This repository contains a collection of laboratory assignments focused on Artificial Intelligence concepts, implemented primarily in Python. Each lab explores different aspects of AI, including clustering, genetic algorithms, and neural networks.
-
 ## Project Structure
 
 The project is organized into several modules, each representing a distinct laboratory assignment:
