@@ -4,19 +4,19 @@
 
 ## 📝 Table of Contents
 
-*   [✨ Features]()
-*   [🛠️ Technologies Used]()
-*   [🚀 Quick Start]()
-    *   [1️⃣ Clone the Repository]()
-    *   [2️⃣ Install Dependencies]()
-    *   [3️⃣ Run the Labs]()
-*   [🔬 Lab Details]()
-    *   [Lab1: Data Clustering]()
-    *   [Lab2: Genetic Algorithms]()
-    *   [Lab3: Neural Networks (MNIST Classification)]()
-*   [🤝 Contributing]()
-*   [📄 License]()
-*   [🧰 Maintainer]()
+*   [✨ Features](#-features)
+*   [🛠️ Technologies Used](#️-technologies-used)
+*   [🚀 Quick Start](#-quick-start)
+    *   [1️⃣ Clone the Repository](#1️⃣-clone-the-repository)
+    *   [2️⃣ Install Dependencies](#2️⃣-install-dependencies)
+    *   [3️⃣ Run the Labs](#3️⃣-run-the-labs)
+*   [🔬 Lab Details](#-lab-details)
+    *   [Lab1: Data Clustering](#lab1-data-clustering)
+    *   [Lab2: Genetic Algorithms](#lab2-genetic-algorithms)
+    *   [Lab3: Neural Networks (MNIST Classification)](#lab3-neural-networks-mnist-classification)
+*   [🤝 Contributing](#-contributing)
+*   [📄 License](#-license)
+*   [🧰 Maintainer](#-maintainer)
 
 ## ✨ Features
 
