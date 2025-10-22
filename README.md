@@ -164,4 +164,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 *   📧 [artemrivnyi@outlook.com]()
 *   🔗 [LinkedIn](https://www.linkedin.com/in/artem-rivnyi/)
-
