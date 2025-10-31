@@ -16,7 +16,7 @@
     * [2️⃣ Install Dependencies](#2️⃣-install-dependencies)
     * [3️⃣ Run the Labs](#3️⃣-run-the-labs)
 * [🔬 Lab Details](#-lab-details)
-    * [Lab1: Data Clustering](#lab1-data-clustering)
+   * [Lab1: Data Clustering](#lab1-data-clustering)
         * [Screenshots](#lab1-screenshots)
         * [What I Learned](#lab1-what-i-learned)
         * [Use Cases](#lab1-use-cases)
