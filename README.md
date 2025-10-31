@@ -17,17 +17,17 @@
     * [3️⃣ Run the Labs](#3️⃣-run-the-labs)
 * [🔬 Lab Details](#-lab-details)
     * [Lab1: Data Clustering](#lab1-data-clustering)
-        * [Lab1 Screenshots](#lab1-screenshots)
-        * [Lab1 What I Learned](#lab1-what-i-learned)
-        * [Lab1 Use Cases](#lab1-use-cases)
+        * [Screenshots (Lab1)](#-screenshots-lab1)
+        * [What I Learned (Lab1)](#-what-i-learned-lab1)
+        * [Use Cases (Lab1)](#-use-cases-lab1)
     * [Lab2: Genetic Algorithms](#lab2-genetic-algorithms)
-        * [Lab2 Results](#lab2-results)
-        * [Lab2 What I Learned](#lab2-what-i-learned)
-        * [Lab2 Use Cases](#lab2-use-cases)
+        * [Results (Lab2)](#-results-lab2)
+        * [What I Learned (Lab2)](#-what-i-learned-lab2)
+        * [Use Cases (Lab2)](#-use-cases-lab2)
     * [Lab3: Neural Networks (MNIST Classification)](#lab3-neural-networks-mnist-classification)
-        * [Lab3 Screenshots](#lab3-screenshots)
-        * [Lab3 What I Learned](#lab3-what-i-learned)
-        * [Lab3 Use Cases](#lab3-use-cases)
+        * [Screenshots (Lab3)](#-screenshots-lab3)
+        * [What I Learned (Lab3)](#-what-i-learned-lab3)
+        * [Use Cases (Lab3)](#-use-cases-lab3)
 * [🤝 Contributing](#-contributing)
 * [📄 License](#-license)
 * [🧰 Maintainer](#-maintainer)
@@ -117,19 +117,19 @@ python main.py
 
 This lab focuses on data clustering techniques using `K-Means` and `Mean Shift` algorithms. It demonstrates how to load data, determine optimal cluster numbers using the silhouette score, and visualize the clustering results. The project uses `pandas` for data handling and `scikit-learn` for clustering algorithms.
 
-#### 📸 Lab1 Screenshots
+#### 📸 Screenshots (Lab1)
 
 The analysis involved four key visualizations to understand the data and the clustering process: the original data distribution, the centers identified by Mean Shift, the Silhouette Score for K-Means optimization, and the final K-Means clustering.
 
 ![Lab 1 Clustering Results](https://github.com/user-attachments/assets/94d62c24-d316-4e99-87f1-7da296c25045)
 
-#### 🧠 Lab1 What I Learned
+#### 🧠 What I Learned (Lab1)
 
 This lab provided a hands-on understanding of **unsupervised learning** through two distinct clustering algorithms: **K-Means** and **Mean Shift**. I learned the fundamental difference between these approaches: K-Means is a centroid-based algorithm that requires the number of clusters ($k$) to be specified beforehand, while Mean Shift is a density-based, non-parametric algorithm that automatically discovers the number of clusters based on the data's density distribution.
 
 Crucially, the exercise highlighted the importance of cluster evaluation. By implementing the **Silhouette Score**, I gained practical experience in determining the optimal number of clusters for the K-Means algorithm, ensuring the resulting clusters are well-separated and dense.
 
-#### 💡 Lab1 Use Cases
+#### 💡 Use Cases (Lab1)
 
 | Industry/Area | Specific Application | Description |
 | :--- | :--- | :--- |
@@ -155,11 +155,11 @@ Crucially, the exercise highlighted the importance of cluster evaluation. By imp
 
 This lab implements a basic genetic algorithm to find the optimal solution for a given objective function. It utilizes the `DEAP` (Distributed Evolutionary Algorithms in Python) framework to define individuals, populations, fitness functions, and genetic operators (crossover, mutation, selection).
 
-#### 📈 Lab2 Results
+#### 📈 Results (Lab2)
 
 The genetic algorithm successfully optimized the objective function $f(x, y, z) = 1 / (1 + (x-2)^2 + (y+1)^2 + (z-1)^2)$, which has a theoretical maximum value of 1. The console output showed the evolution of the population over 100 generations, with the maximum fitness value steadily increasing. The **Best Individual** found was approximately $[2.0698, -0.8648, 0.9052]$, with a fitness of $0.9688$, which is very close to the theoretical maximum.
 
-#### 🧠 Lab2 What I Learned
+#### 🧠 What I Learned (Lab2)
 
 This lab served as an introduction to **evolutionary computation** and the practical implementation of a **Genetic Algorithm (GA)** using the `DEAP` framework. I learned how to model a complex optimization problem by defining the core components of a GA:
 1.  **Individuals and Population**: Representing potential solutions and the collection of these solutions.
@@ -168,7 +168,7 @@ This lab served as an introduction to **evolutionary computation** and the pract
 
 The process demonstrated how GAs can effectively search a large, complex solution space to find near-optimal solutions for problems where traditional calculus-based methods are difficult or impossible to apply.
 
-#### 💡 Lab2 Use Cases
+#### 💡 Use Cases (Lab2)
 
 | Industry/Area | Specific Application | Description |
 | :--- | :--- | :--- |
@@ -192,13 +192,13 @@ The process demonstrated how GAs can effectively search a large, complex solutio
 
 This lab demonstrates the implementation of a simple neural network using `Keras` for classifying handwritten digits from the MNIST dataset. It covers data loading, preprocessing (normalization, one-hot encoding), model creation, training, evaluation, and saving the trained model.
 
-#### 📸 Lab3 Screenshots
+#### 📸 Screenshots (Lab3)
 
 The model was trained for 10 epochs, achieving a high level of accuracy on the test set. The final evaluation showed a test loss of **~0.0993** and a test accuracy of **~97.14%**. The visualization below shows an example of a test image, the model's prediction, and the actual label, confirming the model's ability to correctly classify the handwritten digit.
 
 ![Lab 3 Prediction Example](https://github.com/user-attachments/assets/7347926c-64e4-4b67-8619-cd0e80c1561d)
 
-#### 🧠 Lab3 What I Learned
+#### 🧠 What I Learned (Lab3)
 
 This lab provided foundational experience in **deep learning** by implementing a simple **Neural Network** for the classic MNIST handwritten digit classification task using **Keras**. Key takeaways include:
 1.  **Data Preprocessing**: The necessity of normalizing pixel data (scaling to 0-1) and converting labels to a **one-hot encoded** format for categorical classification.
@@ -206,7 +206,7 @@ This lab provided foundational experience in **deep learning** by implementing a
 3.  **Training and Evaluation**: Understanding the role of the **Adam optimizer** and **Categorical Cross-entropy loss** in the training process, and evaluating the model's performance using accuracy on a separate test set.
 4.  **Model Persistence**: The practical step of saving the trained model (`.keras` format) for later use without needing to retrain.
 
-#### 💡 Lab3 Use Cases
+#### 💡 Use Cases (Lab3)
 
 | Industry/Area | Specific Application | Description |
 | :--- | :--- | :--- |
