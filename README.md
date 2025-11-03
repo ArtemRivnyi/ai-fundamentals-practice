@@ -121,7 +121,7 @@ This lab focuses on data clustering techniques using `K-Means` and `Mean Shift` 
 
 The analysis involved four key visualizations to understand the data and the clustering process: the original data distribution, the centers identified by Mean Shift, the Silhouette Score for K-Means optimization, and the final K-Means clustering.
 
-![Lab 1 Clustering Results](https://github.com/user-attachments/assets/94d62c24-d316-4e99-87f1-7da296c25045)
+![lab1_clustering_results](./assets/lab1_clustering_results.png)
 
 #### 🧠 What I Learned (Lab1)
 
@@ -196,7 +196,7 @@ This lab demonstrates the implementation of a simple neural network using `Keras
 
 The model was trained for 10 epochs, achieving a high level of accuracy on the test set. The final evaluation showed a test loss of **~0.0993** and a test accuracy of **~97.14%**. The visualization below shows an example of a test image, the model's prediction, and the actual label, confirming the model's ability to correctly classify the handwritten digit.
 
-![Lab 3 Prediction Example](https://github.com/user-attachments/assets/7347926c-64e4-4b67-8619-cd0e80c1561d)
+![lab3_prediction_example](./assets/lab3_prediction_example.png)
 
 #### 🧠 What I Learned (Lab3)
 
