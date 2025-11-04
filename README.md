@@ -4,6 +4,8 @@
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CI Status](https://github.com/ArtemRivnyi/ai-fundamentals-practice/actions/workflows/main.yml/badge.svg )](https://github.com/ArtemRivnyi/ai-fundamentals-practice/actions )
+[![Last Commit](https://img.shields.io/github/last-commit/ArtemRivnyi/ai-fundamentals-practice?label=Last%20Update&style=flat-square )](https://github.com/ArtemRivnyi/ai-fundamentals-practice/commits/main )
 
 **AI Fundamentals Practice** is a repository containing a collection of laboratory assignments focused on fundamental Artificial Intelligence concepts. The project is primarily implemented in Python and covers various aspects of AI, including data clustering, genetic algorithms, and neural networks. It is designed for students and researchers looking to explore and apply key machine learning and artificial intelligence algorithms.
 
