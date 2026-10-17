@@ -246,5 +246,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 * 📧 [artemrivnyi@outlook.com](mailto:artemrivnyi@outlook.com)  
 * 🔗 [LinkedIn](https://www.linkedin.com/in/artem-rivnyi/)  
-* 🌐 [Personal Projects](https://personal-page-devops.onrender.com/)  
+* 🌐 [Personal Projects](https://artemrivnyi.com/)  
 * 💻 [GitHub](https://github.com/ArtemRivnyi)
